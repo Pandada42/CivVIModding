@@ -1,14 +1,14 @@
 # Quebec
 
-Leader : 
+### Leader : 
 
-LA :
+_LA :_
 
-UB :
+_UB :_
 
-UU :
+_UU :_
 
-UA : 
+_UA :_
 
 Villes : Montréal, Québec, Sherbrooke, Gatineau, Trois Rivières, Laval, Chibougamau, Charlevoix, Baie-St-Paul
 
@@ -22,8 +22,10 @@ Montagnes :
 
 Devise complète : Je me souviens [que né sous le lys, je crois sous la rose]
 
+## L'Energie et le Commerce au Québec
 
-Le long du St-Laurent : Transport Fluvial énervé : 20 ports commerciaux, 5.6M de passagers, 27k emplois, 3.1B chiffre d'affaire dont 25% commerce interne (énorme). Majorité du commerce maritime canadien se fait au québec. 10% superficie du Québec est de l'eau douce. 
+#### Le long du St-Laurent :
+Transport Fluvial énervé : 20 ports commerciaux, 5.6M de passagers, 27k emplois, 3.1B chiffre d'affaire dont 25% commerce interne (énorme). Majorité du commerce maritime canadien se fait au québec. 10% superficie du Québec est de l'eau douce. 
 https://www.transports.gouv.qc.ca/fr/entreprises-partenaires/entreprises-services-transport-maritime/Pages/portrait-quebec.aspx
 https://www.transports.gouv.qc.ca/fr/entreprises-partenaires/entreprises-services-transport-maritime/Documents/transp_marchandises.pdf
 https://www.transports.gouv.qc.ca/fr/entreprises-partenaires/entreprises-services-transport-maritime/Documents/Ports_commerciaux_2022.pdf
@@ -31,7 +33,8 @@ https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/transports/ministere-des-trans
 -> UA buff pour les routes entre des villes sur une même rivière ? les routes qui croisent une rivière ? 
 
 
-Développement de l'hydroélectricité - Hydro-Québec : 97% de l'électricité consommée au Québec, production dès 1890, nationalisation en 1944 sous Godbout puis en 63 sous Lévesque avec la Révolution Tranquille. 61 Centrales, 681 barrages. 
+#### Développement de l'hydroélectricité - Hydro-Québec : 
+97% de l'électricité consommée au Québec, production dès 1890, nationalisation en 1944 sous Godbout puis en 63 sous Lévesque avec la Révolution Tranquille. 61 Centrales, 681 barrages. 
 Beaucoup d'exportations. 
 Pour historiens et géographes, Hydro-Québec représente le sentiment d'appartenance au Québec. Tout le monde y est favorable : emplois de qualité + coûts bas pour tout le monde + écologie. 
 Léger développement de l'éolien via des appels d'offres, 4000 MW.
@@ -39,25 +42,31 @@ https://content.lesaffaires.com/LAF/affaires/redaction/Carte%20production%20hydr
 -> Plateformes Indus/Villes/Quartiers sur les rivières produisent de l'électricité ? Buff pour les barrages hydroélectriques ? Partage d'électricité ? 
 
 
-Budget pour la protection du patrimoine et d'aides au musée en constante augmentation : 8M$ par an et 2M$ par an respectivement, 2% pour la région rhône alpes. 10000 sites archéologiques rien qu'au québec, 50000 en France en entier. Place-des-Arts plus grosse institution culturelle du pays, gère des salles à Montréal et dans les autres villes adjacentes 
--> Quartier Unique 'Place-des-Arts' qui remplace la place du théâtre ? 
-
-
-Multilinguisme et multiculturalisme : 2 langues officielles qui font la fierté du pays, protectionnisme linguistique. Ouverture au monde 
--> buff sur les villes qui ont changé de propriétaire ? buff sur les villes qui subissent différentes loyautés ? 
-
-
-Autochtone : Longtemps soumis, puis assimilés, les Cris finiront par faire un accord pour l'épanouissement économique. Le Régime des Pensionnats a détruit la culture autochtone : Génocide Culturel Reconnu 
--> finalement ptêt pas buff la protection de la culture...
-
-
-Bûcheronnage : Forêts = 50 % territoire québécois, 90 579 200 Ha > superficie Française. 
+#### Bûcheronnage : 
+Forêts = 50 % territoire québécois, 90 579 200 Ha > superficie Française. 
 25ML/an de sirop d'érable au québec sur 40ML/an dans le monde. 42 Mha de territoire forestier productif pour 3750 Mm^3/An de production de bois, en augmentation. Représente 8% des exportations de la province. Possibilité forestière en baisse. 
 Pas de grosse déforestation au Québec (juste localisée) donc forêt se régénère. Zones protégées énormes (10%), plan de protection du CARIBOU. Forêts gérées durablement à + de 80%.
 https://collections.banq.qc.ca/ark:/52327/bs36713
 -> Buff sur les scieries ? Parc de loisirs naturels/Entertainment ? Remplacement des scieries par les cabanes à sucre ?  
 
-Activités de plein air : 2M400k habitants du Québec sur 8M (>25%) pratiquent une activité en plein air régulièrement. 66% d'habitants au cours des 3 dernières années.
+
+
+## La culture au Québec
+#### Patrimoine, musées et pestacles
+Budget pour la protection du patrimoine et d'aides au musée en constante augmentation : 8M$ par an et 2M$ par an respectivement, 2% pour la région rhône alpes. 10000 sites archéologiques rien qu'au québec, 50000 en France en entier. Place-des-Arts plus grosse institution culturelle du pays, gère des salles à Montréal et dans les autres villes adjacentes 
+-> Quartier Unique 'Place-des-Arts' qui remplace la place du théâtre ? 
+
+
+#### Multilinguisme et multiculturalisme : 2 langues officielles qui font la fierté du pays, protectionnisme linguistique. Ouverture au monde 
+-> buff sur les villes qui ont changé de propriétaire ? buff sur les villes qui subissent différentes loyautés ? 
+
+
+#### Autochtone : 
+Longtemps soumis, puis assimilés, les Cris finiront par faire un accord pour l'épanouissement économique. Le Régime des Pensionnats a détruit la culture autochtone : Génocide Culturel Reconnu 
+-> finalement ptêt pas buff la protection de la culture...
+
+#### Activités de plein air : 
+2M400k habitants du Québec sur 8M (>25%) pratiquent une activité en plein air régulièrement. 66% d'habitants au cours des 3 dernières années.
 2.2 B$, 30k emplois, 913 M en salaires. 2.28M dépensés dans des activités de plein air.
 Veut se positionner comme un enjeu majeur du tourisme au québec. 
 Associé au bien-être et à la réduction du stress. 
