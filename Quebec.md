@@ -10,26 +10,24 @@ _UU :_
 
 _UA :_
 
-Villes : Montréal, Québec, Sherbrooke, Gatineau, Trois Rivières, Laval, Chibougamau, Charlevoix, Baie-St-Paul
-
-Leaders ? : Louis Hébert, Jean Lesage (cf Arthur)
+Villes : Montréal, Québec, Sherbrooke, Gatineau, Trois Rivières, Laval, Chibougamau, Charlevoix, Baie-St-Paul 
 
 Rivières : Saint-Laurent (obv), Aux Outardes, Betsiamites, des Outaouais, La Grande, Manicouagan, Romaine, Saint-Maurice
 
 Montagnes :
 
-
-
 Devise complète : Je me souviens [que né sous le lys, je crois sous la rose]
 
-## L'Energie et le Commerce au Québec
+## Les Ressources Naturelles
 
 #### Le long du St-Laurent :
 Transport Fluvial énervé : 20 ports commerciaux, 5.6M de passagers, 27k emplois, 3.1B chiffre d'affaire dont 25% commerce interne (énorme). Majorité du commerce maritime canadien se fait au québec. 10% superficie du Québec est de l'eau douce. 
+90% de la population à moins ce 20km du St-Laurent 
 https://www.transports.gouv.qc.ca/fr/entreprises-partenaires/entreprises-services-transport-maritime/Pages/portrait-quebec.aspx
 https://www.transports.gouv.qc.ca/fr/entreprises-partenaires/entreprises-services-transport-maritime/Documents/transp_marchandises.pdf
 https://www.transports.gouv.qc.ca/fr/entreprises-partenaires/entreprises-services-transport-maritime/Documents/Ports_commerciaux_2022.pdf
 https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/transports/ministere-des-transports/publications-amd/Politiques_ministerielles/PO_pol_transport_fluvial_MTMDET.pdf 
+Diversité du Canada par Jean Pelletier
 -> UA buff pour les routes entre des villes sur une même rivière ? les routes qui croisent une rivière ? 
 
 
@@ -50,6 +48,21 @@ https://collections.banq.qc.ca/ark:/52327/bs36713
 -> Buff sur les scieries ? Parc de loisirs naturels/Entertainment ? Remplacement des scieries par les cabanes à sucre ?  
 
 
+#### Agriculture : 
+2 noyaux de peuplement supplémentaires hors du St-Laurent
+Peuplés en 1929 au "Retour à la terre", se développe assez peu. 
+Peu d'agriculture cause gel -> élevage laitier
+Fjord du Saguenay : relie au St-Laurent le Lac St-Jean?
+Véritable identité propre mais québécois toujours
+Culture des bleuets (myrtilles) et élevage bovin principalement, problème avec l'agriculture
+Diversité du Canada par Jean Pelletier
+
+
+#### Mines et Carrières : 
+Production anecdotique qui perd en importance mais qui se développe tôt. 
+Industries développées cause électricité pas chère et abondante.
+Diversité du Canada par Jean Pelletier
+-> Rien
 
 ## La culture au Québec
 #### Patrimoine, musées et pestacles
