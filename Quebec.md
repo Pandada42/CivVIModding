@@ -72,3 +72,14 @@ Veut se positionner comme un enjeu majeur du tourisme au québec.
 Associé au bien-être et à la réduction du stress. 
 https://chairedetourisme.uqam.ca/upload/files/Etude_Plein_air_rapport_final.pdf
 https://www.loisir-lanaudiere.qc.ca/wp-content/uploads/2020/02/avis-prebudgetaire-coalition-quebecoise-du-plein-air-5-b.pdf
+
+## Les leaders
+### Jean Lesage
+- Né à Montréal
+- Premier ministre du Québec de 1960 à 1966.
+- Élu en 1960 pour un programme politique "à la fois intensément réformiste et intensément nationaliste".
+- Prône une politique de grandeur qui rompt avec ses prédécesseurs -> vise à mettre en place État planificateur et modernisateur
+- Surnomé "père de la Révolution tranquille"
+- créait fonction publique, institutions modernes, ministère de l'Éducation, caisse de dépôt et placement, régie des rentes, régime d'assurance-hospitalisation.
+- nationalisation de l'électricité au niveau régional
+- "Jean Lesage est considéré par plusieurs comme l'un des premiers ministres les plus importants de l'histoire du Québec"
